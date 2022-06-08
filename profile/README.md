@@ -1,4 +1,4 @@
-# OpenMic
+<h1 align="center"> OpenMic </h1>
 
 <p align="center">
   <img width="200" src="https://i.imgur.com/aRBsAOJ.png">
