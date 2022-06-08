@@ -1,7 +1,7 @@
 # OpenMic
 
 <p align="center">
-  <img width="200" src="../../OpenMic/src/utils/images/OpenMicLogo.png">
+  <img width="200" src="https://i.imgur.com/aRBsAOJ.png">
 </p>
 
 **OpenMic** is a MERN stack project implementing CRUD operations, allowing users to create, update or delete their profiles, and read other profiles. Users will be either artists or venues, and each can connect with the other and leave ratings/reviews on their profiles.
