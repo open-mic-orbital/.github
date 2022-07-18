@@ -8,7 +8,7 @@
 
 ## Demo 
 
-A live demo of the website is viewable here: https://openmic-orbital.vercel.app/ 
+A live demo of the website is viewable here: https://openmic-orbital.vercel.app/  
 The frontend source code can be viewed [here](https://github.com/open-mic-orbital/OpenMic).
 
 The backend is hosted through Heroku, and the source code can be viewed [here](https://github.com/open-mic-orbital/OpenMicBackend).
